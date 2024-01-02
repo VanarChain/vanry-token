@@ -1,1 +1,0 @@
-# vanry-token
