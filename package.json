@@ -1,7 +1,7 @@
 {
-  "name": "verify_wrapper",
+  "name": "vanry_token",
   "version": "1.0.0",
-  "description": "",
+  "description": "ERC20 token implementation by openzeppelin",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ahmed",
   "license": "ISC",
   "dependencies": {
     "@openzeppelin/contracts": "^4.1.0",
